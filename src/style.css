@@ -23,3 +23,16 @@ body {
   border-radius: 50%;
   position: fixed;
 }
+
+@media (max-width: 992px) {
+  #cursor {
+    height: 15px;
+    width: 15px;
+  }
+}
+
+@media (width < 992px) {
+  #cursor {
+    display: none;
+  }
+}
