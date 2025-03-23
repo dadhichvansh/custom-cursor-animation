@@ -29,7 +29,7 @@ This is a simple custom cursor animation using HTML, CSS, JavaScript and GSAP.
   ```bash
   npm run dev
   ```
-- Open your browser and navigate to `http://localhost:5174`.
+- Open your browser and navigate to `http://localhost:5173`.
 
 ## Build
 
